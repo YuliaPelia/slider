@@ -1,5 +1,4 @@
 # slider
-complex version slider
 In order to create a slider, you need to specify several properties
 1) constainer is the block that stores the slider
 2) slide is a block containing img
